@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-* Name of company**
+* Name of company
 **VeChain**
 * When was the company incorporated?
 **2015**
