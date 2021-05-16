@@ -2,12 +2,12 @@
 
 ## Overview and Origin
 
-**bold Name of company**
-VeChain
-**bold When was the company incorporated?**
-2015
-**bold Who are the founders of the company?**
-Sunny Lu
+* Name of company**
+**bold VeChain**
+* When was the company incorporated?
+**bold 2015**
+* Who are the founders of the company?
+**bold Sunny Lu**
 * How did the idea for the company (or project) come about?
 
 * How is the company funded? How much funding have they received?
